@@ -9,14 +9,18 @@ Our team consists of Project Managements, Implementation Consultants, and Soluti
 
 ## Screenshot
 
-![Top front page screenshot] (./assets/images/Front_page_1)
+![Top front page screenshot] (./assets/images/Front_page_1.png)
 
-![Middle] (./assets/images/Front_page_2)
+![Middle] (./assets/images/Front_page_2.png)
 
-![bottom] (./assets/images/Front_page_3)
+![bottom] (./assets/images/Front_page_3.png)
 
 ## Link
 
-[Click Here] ()
+[Click Here] (https://afam-26.github.io/SEO_home_work/)
+
+## Credit
+
+Jared Ackley 
 
 
