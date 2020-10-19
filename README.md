@@ -22,5 +22,6 @@ Our team consists of Project Managements, Implementation Consultants, and Soluti
 ## Credit
 
 Jared Ackley 
+[Github link](https://github.com/jrod3323)
 
 
